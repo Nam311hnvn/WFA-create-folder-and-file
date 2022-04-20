@@ -1,0 +1,11 @@
+C:\Users\14\Desktop\BTL_HDH\obj\Debug\BTL_HDH.csproj.AssemblyReference.cache
+C:\Users\14\Desktop\BTL_HDH\obj\Debug\BTL_HDH.csproj.SuggestedBindingRedirects.cache
+C:\Users\14\Desktop\BTL_HDH\obj\Debug\BTL_HDH.Form1.resources
+C:\Users\14\Desktop\BTL_HDH\obj\Debug\BTL_HDH.Properties.Resources.resources
+C:\Users\14\Desktop\BTL_HDH\obj\Debug\BTL_HDH.csproj.GenerateResource.cache
+C:\Users\14\Desktop\BTL_HDH\obj\Debug\BTL_HDH.csproj.CoreCompileInputs.cache
+C:\Users\14\Desktop\BTL_HDH\bin\Debug\BTL_HDH.exe.config
+C:\Users\14\Desktop\BTL_HDH\bin\Debug\BTL_HDH.exe
+C:\Users\14\Desktop\BTL_HDH\bin\Debug\BTL_HDH.pdb
+C:\Users\14\Desktop\BTL_HDH\obj\Debug\BTL_HDH.exe
+C:\Users\14\Desktop\BTL_HDH\obj\Debug\BTL_HDH.pdb
